@@ -38,7 +38,11 @@
 }
 
 .headlines.harira {
-    background-color: rgb(255, 182, 46);
+    background-color: rgb(255, 211, 129);
+}
+
+.headlines.tajine {
+    background-color: rgb(255, 161, 161);
 }
 
 img {
