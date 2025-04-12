@@ -1,0 +1,24 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: lightblue;
+    border: rgb(136, 136, 255) dashed 2px;
+    text-align: center;
+    margin: 0 auto;
+    width: 250px;
+}
+
+ul {
+    text-align: center;
+    padding: 0px;
+}
+
+li {
+    background-color: rgb(255, 253, 140);
+    border: black solid 2px;
+    display: inline-block;
+    padding: 10px;
+    margin: 3px auto;
+}
