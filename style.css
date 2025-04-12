@@ -29,9 +29,16 @@
     padding: 3px;
 }
 
-.bourak-headlines {
-    background-color: bisque;
+.headlines {
     text-align: center;
+}
+
+.headlines.bourak {
+    background-color: bisque;
+}
+
+.headlines.harira {
+    background-color: rgb(255, 182, 46);
 }
 
 img {
