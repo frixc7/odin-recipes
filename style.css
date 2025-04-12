@@ -49,3 +49,11 @@ img {
     display: block;
     margin: auto;
 }
+
+ul li {
+    padding: 3px;
+}
+
+ol li {
+    padding: 4px;
+}
