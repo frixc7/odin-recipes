@@ -2,7 +2,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+#home-headline {
     background-color: lightblue;
     border: rgb(136, 136, 255) dashed 2px;
     text-align: center;
@@ -10,15 +10,31 @@ h1 {
     width: 250px;
 }
 
-ul {
+#links {
     text-align: center;
     padding: 0px;
 }
 
-li {
+#links li {
     background-color: rgb(255, 253, 140);
     border: black solid 2px;
     display: inline-block;
     padding: 10px;
     margin: 3px auto;
+}
+
+#home-link {
+    background-color: rgb(255, 253, 140);
+    border: black solid 2px;
+    padding: 3px;
+}
+
+.bourak-headlines {
+    background-color: bisque;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
